@@ -6,7 +6,7 @@
 <div align='center'> 🌺 프론트엔드 주니어 개발자 노수혁입니다.</div>
 <br>
 <div align='center'> Email : shtngur10@gmail.com</div>
-<div align='center'> Blog : <a href="https://www.notion.so/6903eccb1e784dee8ff8fecd1c5f3eee?pvs=4">https://notion.com/stngur10@naver.com</a></div>
+<div align='center'> Blog : <a href="https://universal-finch-bc7.notion.site/6903eccb1e784dee8ff8fecd1c5f3eee">https://notion.com/stngur10@naver.com</a></div>
 <br>
 
 
