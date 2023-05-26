@@ -1,6 +1,6 @@
 <br>
 <p align="center">
- ![waving](https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Welcome to Suhyeok's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45)
+ <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Suhyeok's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
 </p>
 
 <div align='center'> 🌺 프론트엔드 주니어 개발자 노수혁입니다.</div>
