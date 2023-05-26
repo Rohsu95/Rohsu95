@@ -19,5 +19,5 @@
 
 <h3 align='center'> 💗 Experience</h3>
 <p align="center">
-- 👯 CodeStates (2022/08/19 ~ 2023/02/10)
+- 💮 CodeStates (2022/08/19 ~ 2023/02/10)
 </p>
